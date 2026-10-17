@@ -137,15 +137,3 @@ An interactive **Power BI Dashboard** was developed to visualize key macroeconom
 4. **Scatter Plot & Regression Line:** Interactive model displaying $Y = 0.6X + 5$ to evaluate underemployment against youth distress scores.
 5. **Demographic Slicers:** Dynamic filtering by Year, Field of Study, Ethnicity, Skill Level, and Qualification Tier.
 
----
-
-## 👥 Project Team & Acknowledgments
-
-* **Faculty:** Faculty of Science & Technology, Universiti Kebangsaan Malaysia (UKM)
-* **Supervisor:** Asst. Prof. Dr. Hafizah Bahaludin
-* **Project Team (IvyWitch):**
-  * **Dayana Batrisya** – Project Director
-  * **Afiqah Syahirah** – Chief Data Architect
-  * **Nur Najihah** – Framework Strategist
-  * **Nur Syasya Faqihah** – Creative Design
-  * **Aisha Adriana Elisa** – Narrative Specialist
