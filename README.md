@@ -18,7 +18,7 @@ By integrating multi-domain datasets across labor economics, higher education, a
 - [Methodology](#%EF%B8%8F-3-methodology)
 - [Key Findings](#-4-key-findings)
 - [Recommendations](#-5-recommendations)
-- [Limitations](#-6-limitations)
+- [Limitations](#%EF%B8%8F-6-limitations)
 - [Project Impact](#-7-project-impact)
 - [Dashboard Overview](#-8-dashboard-overview)
 
